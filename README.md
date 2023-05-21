@@ -11,3 +11,9 @@ The third plot will be a plot of the residuals.
 The source has been compiled and ran on a win10 machine during the development (using the needed bash extensions) and has been tested on another windows machine and on a ubuntu (last release at the time of the commit) machine.
 
  Hope this is right!
+
+
+
+
+
+   Lapo Sgatti
